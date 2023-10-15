@@ -22,7 +22,7 @@ Misalnya:
 - _S.I.P._ = *s*arjana *i*lmu *p*olitik
 - _S.K.M._ = *s*arjana *k*esehatan *m*asyarakat
 - _S.Kom._ = *s*arjana *kom*puter
-- _S.Sos._ = s*arjana *sos\*ial
+- _S.Sos._ = *s*arjana *sos*ial
 - _Sp.A._ = *sp*esialis *a*nak
 - _R.M._ Syahid = *R*aden *M*as Syahid
 - _Sdr._ Lukman = *S*au*d*a*r*a Lukman
